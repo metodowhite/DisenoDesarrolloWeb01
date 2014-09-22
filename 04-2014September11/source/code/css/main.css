@@ -1,0 +1,107 @@
+h1{
+	font-family: Georgia-Bold;
+	font-size: 36px;
+	color: #4A4A4A;
+	line-height: 41px;
+	/* Titulo - H1: */
+}
+
+h2 {
+	font-family: Georgia-Bold;
+	font-size: 22px;
+	line-height: 25px;
+	/* Bajada - H2: */
+}
+
+.morado {
+	color: #BE00FF;
+}
+
+p {
+	font-family: Georgia;
+	font-size: 16px;
+	color: #4A4A4A;
+	line-height: 20px;
+	/* p - Lemon drops swee: */
+}
+
+
+
+.color1 {
+	background-color: hsl(100, 100%, 20%);
+}
+.color2 {
+	background-color: hsl(120, 100%, 20%);
+}
+.color3 {
+	background-color: hsl(140, 100%, 20%);
+}
+.color4 {
+	background-color: hsl(160, 100%, 20%);
+}
+.color5 {
+	background-color: hsl(180, 100%, 20%);
+}
+
+
+
+
+.color1b {
+	background-color: hsl(100, 20%, 50%);
+}
+.color2b {
+	background-color: hsl(120, 20%, 50%);
+}
+.color3b {
+	background-color: hsl(140, 20%, 50%);
+}
+.color4b {
+	background-color: hsl(160, 20%, 50%);
+}
+.color5b{
+	background-color: hsl(180, 20%, 50%);
+}
+
+
+
+.color1c {
+	background-color: hsl(100, 100%, 50%);
+}
+.color2c {
+	background-color: hsl(120, 100%, 50%);
+}
+.color3c {
+	background-color: hsl(140, 100%, 50%);
+}
+.color4c {
+	background-color: hsl(160, 100%, 50%);
+}
+.color5c {
+	background-color: hsl(180, 100%, 50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

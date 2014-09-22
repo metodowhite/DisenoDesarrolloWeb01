@@ -1,0 +1,73 @@
+body{
+	background-color: gray;
+	font-family: "Helvetica", "Arial", _sans;
+}
+
+#itunes{
+	height: 200px;
+	border-radius: 4px;
+/* background: */
+background: #FCFCFC;
+border: 1px solid #929292;
+-moz-box-shadow:    0px 20px 30px 0px rgba(0,0,10,0.50);
+box-shadow:         0px 20px 30px 0px rgba(0,0,10,0.50);
+}
+
+header{
+	height: 46px;
+	position: relative;
+	/* header background: */
+background-image: -o-linear-gradient(-89deg, #F4F4F4 0%, #D0D0D0 100%);
+background-image: -moz-linear-gradient(-89deg, #F4F4F4 0%, #D0D0D0 100%);
+background-image: -ms-linear-gradient(-89deg, #F4F4F4 0%, #D0D0D0 100%);
+background-image: linear-gradient(-179deg, #F4F4F4 0%, #D0D0D0 100%);
+border: 1px solid #979797;
+}
+
+#central{
+	height: 45px;
+
+	position: absolute;
+	left: 20%;
+	right: 20%;
+
+	/* Rectangle 5: */
+background-image: -o-linear-gradient(-89deg, #F1F1F1 0%, #E5E5E5 100%);
+background-image: -moz-linear-gradient(-89deg, #F1F1F1 0%, #E5E5E5 100%);
+background-image: -ms-linear-gradient(-89deg, #F1F1F1 0%, #E5E5E5 100%);
+background-image: linear-gradient(-179deg, #F1F1F1 0%, #E5E5E5 100%);
+border: 1px solid #C4C4C4;
+
+}
+
+#main-nav {
+	border-bottom: 1px solid #C4C4C4;
+	text-align: center;
+}
+
+#main-nav li {
+	display: inline-block;
+	margin: 5px 11px;
+}
+
+#main-nav ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main-nav a {
+	color: #000;
+	text-decoration: none;
+}
+
+.selected, a:hover {
+	background-color: #D1E4F8;
+	padding: 3px 14px;
+	border-radius: 4px;
+}
+
+#main-nav .selected a {
+	color: #2366B1;
+}
+
+

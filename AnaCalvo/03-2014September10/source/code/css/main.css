@@ -1,0 +1,75 @@
+/*
+selector{
+	propiedad:valor;
+}
+*/
+
+/*header#main-header{
+	background-color: red;
+}
+
+.menu{
+	color: green;
+}
+
+header nav.menu ul li{
+	background-color: red;
+}*/
+
+/*
+tag
+class
+id
+*/
+
+/*.project{
+	background-color: green;
+}
+
+#main-project{
+	background-color: yellow;
+}*/
+
+
+
+
+#main-header{
+	background-color: red;
+	width: 90%;
+
+	/*margin:top right bottom left;
+	margin: 20px 40px 100px 60px;
+	margin: 50px 100px;
+	margin: 20px;*/
+	
+	margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
